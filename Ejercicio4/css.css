@@ -19,3 +19,7 @@ a:active {
     font-size: 20px; 
     font-weight: bold; 
 }
+
+h2:target{
+    color: green;
+}
